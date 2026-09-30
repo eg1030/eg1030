@@ -8,4 +8,6 @@ I am currently studying at [Imperial College London (new)](https://www.imperial.
 - Statistics
 - Astrophysics
 - Lingustics
+
+last updated: sep 30
   
