@@ -1,7 +1,7 @@
 # Self Intro 👋🏻
 
 ## Education
-I am currently studying at [Imperial College London](https://www.imperial.ac.uk) as a MSc Statistics student.
+I am currently studying at [Imperial College London (new)](https://www.imperial.ac.uk) as a MSc Statistics student.
 
 ## Things Interested In:
 - Quant Finance
